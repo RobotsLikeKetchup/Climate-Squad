@@ -20,6 +20,7 @@ header {
   background-color: #05668D;
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 20px;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .sidenav a {
