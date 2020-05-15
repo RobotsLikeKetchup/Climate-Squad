@@ -2,7 +2,9 @@ body {
  background-color: #84C318; 
  scrollbar-color: #05668D #679436;
  color: #2F4858;
+ font-family: 'Balsamiq Sans', cursive;
 }
 header {
  font-size: 2em;
+ font-family: 'Montserrat', sans-serif;
 }
